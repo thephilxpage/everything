@@ -2,11 +2,11 @@
 * Some of the things that I have built over the years
 * Disclaimer: Some day job projects are under NDA agreements so can only be discussed not shown
 
-# Website Business / hosting
+# Freelance Website Business / Hosting
 * https://pagedesignwales.online/
 
   
-# Directory Sites
+# Side Project - Directory Sites
 * uktenniscourts.online
 * ukelectricians.online
 * ukestateagents.online
@@ -28,6 +28,6 @@
 * ukcarrepair.online
 * ukveterinary.online
 
-# Fun New Stuff - Creative Projects
-* You tube Music Channel - www.youtube.com/@InfiniteJukebox101 - United Kingdom - Joined 20 Aug 2026 - 21 subscribers - 387 videos - 13,194 views
-* 
+# Fun Stuff - Creative Side Projects
+* You Tube Music Channel - www.youtube.com/@InfiniteJukebox101 - United Kingdom - 21 subscribers - 387 videos - 13,194 views
+* Which Crypto To Buy Online - https://wctb.online/ - Crypto.com API - Buy / Sell / Balance Automation 24/7.
