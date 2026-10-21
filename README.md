@@ -32,5 +32,9 @@
 # Fun Stuff - Creative Side Projects
 * You Tube Music Channel - www.youtube.com/@InfiniteJukebox101 - United Kingdom - 21 subscribers - 387 videos - 13,194 views
 * Which Crypto To Buy Online - https://wctb.online/ - Crypto.com API - Buy / Sell / Balance Automation 24/7.
+* Exploretheglobe.co.uk - Wordpress / Open AI Auto Travel Blog Poster / Pexels API (Images)
 
+
+# Affiliate Ecommerce Website with AWIN
+* https://koomazay.com/
 
