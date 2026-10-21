@@ -35,9 +35,5 @@
 * Wordpress / Open AI Auto Travel Blog Poster - Exploretheglobe.co.uk
 * UK Crime Website - https://crimelocator.site/ - UK Police API
 
-
 # Affiliate Ecommerce Website with AWIN
 * https://koomazay.com/
-
-
-# https://crimelocator.site/
