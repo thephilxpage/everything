@@ -1,5 +1,5 @@
 
-# Some of the Projects I am willing to share.
+# Projects
 * Disclaimer: Some day job projects are under NDA agreements so can only be discussed not shown
 
 # Freelance Website Business / Hosting
