@@ -32,9 +32,12 @@
 # Fun Stuff - Creative Side Projects
 * You Tube Music Channel - www.youtube.com/@InfiniteJukebox101
 * Which Crypto To Buy Online - https://wctb.online/ - Crypto.com API - Buy / Sell / Balance Automation 24/7.
-* Exploretheglobe.co.uk - Wordpress / Open AI Auto Travel Blog Poster / Pexels API (Images)
+* Wordpress / Open AI Auto Travel Blog Poster - Exploretheglobe.co.uk
+* UK Crime Website - https://crimelocator.site/ - UK Police API
 
 
 # Affiliate Ecommerce Website with AWIN
 * https://koomazay.com/
 
+
+# https://crimelocator.site/
