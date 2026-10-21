@@ -35,5 +35,8 @@
 * Wordpress / Open AI Auto Travel Blog Poster - https://Exploretheglobe.co.uk
 * UK Crime Website - https://crimelocator.site/ - UK Police API
 
-# Affiliate Ecommerce Website with AWIN
+# Affiliate Ecommerce Website with AWIN - 50 Million plus products - over 3k affiliates
 * https://koomazay.com/
+
+# Misc
+* As I have over 20+ years experience it's probably worth discussing projects in person
