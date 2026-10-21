@@ -5,7 +5,6 @@
 # Freelance Website Business / Hosting
 * https://pagedesignwales.online/
 
-  
 # Side Project - Directory Sites
 * uktenniscourts.online
 * ukelectricians.online
@@ -28,6 +27,10 @@
 * ukcarrepair.online
 * ukveterinary.online
 
+# Non Disclosed News Site - Static Site with Mediavine Ads.
+
 # Fun Stuff - Creative Side Projects
 * You Tube Music Channel - www.youtube.com/@InfiniteJukebox101 - United Kingdom - 21 subscribers - 387 videos - 13,194 views
 * Which Crypto To Buy Online - https://wctb.online/ - Crypto.com API - Buy / Sell / Balance Automation 24/7.
+
+
