@@ -11,5 +11,8 @@
 
 # Fun Stuff - Creative Side Projects
 * You Tube Music Channel - https://www.youtube.com/@InfiniteJukebox101
+* All Sports Score Live Feed using API - https://scoringboard.today/
+* TV Shows Website - What's on Now - using API - https://whatsontv.today/
+ 
 
 
