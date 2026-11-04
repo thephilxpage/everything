@@ -15,5 +15,5 @@
 * Real Time - TV Shows Website - What's on Now - using API - https://whatsontv.today/
 
 # Please Note
-Over the decades working in web development I have worked on 100s of websites some I have built that have now changed and some I have assisted building or maintained over a time period, therefore giving you links now would not be accurate to my involvement in the projects, but essentially I have worked on websites in most industries so probably better to discuss these projects in person.
+Over 20+ years working in web development I have worked on 100s of websites some I have built that have now changed and some I have assisted building or maintained over a time period, therefore giving you links now would not be accurate to my involvement in the projects, but essentially I have worked on websites in most industries so probably better to discuss these projects in person.
 
